@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'b230e827bef55b3144292c47ce910372668e486f',
+    'reference' => 'd34152235b5ba65930ef63a94535c03452473fe0',
     'name' => 'lp13/mp-ecommerce-php',
   ),
   'versions' => 
@@ -96,7 +96,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'b230e827bef55b3144292c47ce910372668e486f',
+      'reference' => 'd34152235b5ba65930ef63a94535c03452473fe0',
     ),
     'mercadopago/dx-php' => 
     array (

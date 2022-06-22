@@ -1,6 +1,11 @@
 {
     "name": "lp13/mp-ecommerce-php",
-    "type": "project",
+    "authors": [
+        {
+            "name": "Luis Perez",
+            "email": "perezluis197@gmail.com"
+        }
+    ],
     "require": {
         "mercadopago/dx-php": "^2.4"
     }
